@@ -6,9 +6,8 @@ I am a former digital marketer, with a bachelor degree in Languages and a master
 I started coding during my first maternity leave, continued while being at home with my second child, and nowadays I am heavily focusing on learning React. 
 
 - 🇮🇹 🇫🇮  Italian based in Helsinki
-- 🔭 I’m currently freelancing with Gatsby.js
-- 🌱 skills: Javascript, React, TypeScript, Vue, Gatsby, Git, Material-UI, HTML, CSS, Contentful, GraphQL, Figma, Photoshop.
+- 🔭 I’m currently freelancing with WordPress and Gatsby.js
+- 🌱 skills:  HTML, CSS, Javascript, React, TypeScript, WordPress, Vue, Gatsby, Git, Material-UI,Contentful, GraphQL, Figma, Photoshop.
 - ✍️ blog: sometimes I have fun writing about code on my blog https://www.aliceiscoding.com/
-- 👯 I’m looking to collaborate on React projects
-- 📫 How to reach me: you can drop me a message here https://www.alicemoretti.com/Contact
+- 📫 How to reach me: you can drop me a message here https://sardelliweb.com/contact/
 
