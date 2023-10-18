@@ -3,7 +3,7 @@
 ✨ I love frontend development, I enjoy writing code, solving challenges, and seeing the magic appear in the browser ✨ 
 
 I am a former digital marketer, with a bachelor degree in Languages and a master in European Politics.
-I started coding during my first maternity leave, continued while being at home with my second child, and nowadays I am heavily focusing on learning React. 
+I started coding during my first maternity leave, continued while being at home with my second child, and nowadays I run my web development company Sardelli Web https://sardelliweb.com/ 
 
 - 🇮🇹 🇫🇮  Italian based in Helsinki
 - 🔭 I’m currently freelancing with WordPress and Gatsby.js
